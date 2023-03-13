@@ -1,3 +1,4 @@
 # Pizza_Order_System
-The system that takes pizza order from user. Then creates ".csv" table that keeps info that comes from user about payment, order and user. 
-This is designed for Global AI Pyhton Bootcamp 2023. 
+This study has been prepared to develop a system that takes pizza orders from the user. 
+After the order is completed, it creates the ".csv" table where the information about the payment, order and user from the user is kept.
+This work is designed for Global AI Python Bootcamp 2023.
